@@ -4,10 +4,14 @@ baseline: Your blogging assistant
 description: A ready to use static blog, powered by Cecil.
 baseurl: "/"
 canonicalurl: true
+<<<<<<< Updated upstream
 keywords:
 - Cecil
 - Static Site Generator
 - SSG
+=======
+keywords: [Cecil, Static Site Generator, SSG]
+>>>>>>> Stashed changes
 author: Kai Gröteke
 date:
   format: j F Y

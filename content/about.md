@@ -1,9 +1,10 @@
 ---
 title: About
-date: 2019-07-09
+date: '2019-07-09'
 menu:
   main:
-    weight: 999
+    weight: "999"
+
 ---
 > A ready to use static blog, powered by [Cecil](https://cecil.app).
 
@@ -11,7 +12,7 @@ menu:
 
 ### Managing content with [Forestry](https://forestry.io)
 
-If your goal is managing content quickly, and decide later where to deploy to it, use the following button to import the starter blog to Forestry CMS and start editing immediatelly!
+If your goal is managing content quickly, and decide later where to deploy to it, use the following button to import the starter blog to Forestry CMS and start editing immediatelly! KAIG
 
 [![Import this project into Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://cecil.app/cms/forestry/import/)
 

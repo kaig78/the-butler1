@@ -47,6 +47,7 @@
           </h1>
           <p class="lead">{{ site.description }}</p>
         </div>
+          <p><img src="images/logo.png"></p>
         <nav class="sidebar-nav">
 {% if site.menus.main is defined %}
 {% for menu in site.menus.main|sort_by_weight %}
@@ -54,8 +55,6 @@
 {% endfor %}
 {% endif %}
         </nav>
-        <p><img src="images/butler.jpg"></p>
-
        <!--  <p>Powered by <a href="{{ cecil.url }}">Cecil</a> &amp; <a href="https://github.com/poole/hyde#readme">Hyde</a>.</p> -->
 {% endblock sidebar %}
       </div>

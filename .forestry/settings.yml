@@ -5,7 +5,7 @@ admin_path: "/static/forestry"
 webhook_url: 
 sections:
 - type: document
-  path: images/butler.jpg
+  path: static/images/butler.jpg
   label: Logo
 - type: document
   path: config.yml

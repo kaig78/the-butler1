@@ -7,7 +7,6 @@ sections:
 - type: document
   path: images/butler.jpg
   label: Logo
-  match: "**/*"
 - type: document
   path: config.yml
   label: Configuration

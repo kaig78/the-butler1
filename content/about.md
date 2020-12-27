@@ -6,7 +6,7 @@ menu:
     weight: "999"
 
 ---
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
+> A blog about life.
 
 ## How to use?
 

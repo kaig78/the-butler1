@@ -2,6 +2,6 @@
 title: Home
 ---
 
-# The Butler
+# Morgan
 
 > Read, think, reflect [Cecil](https://cecil.app).

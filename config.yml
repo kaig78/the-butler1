@@ -14,7 +14,13 @@ date:
   format: j F Y
   timezone: Europe/Paris
 theme:
-- "hyde"
 - netlify
 - netlify-cms
-
+hyde:
+  sidebar:
+    sticky: true # Content to the bottom of the sidebar
+  theme: 'red' # red, orange, yellow, green, cyan, blue, magenta, brown or cecil
+  reverse: false # Reverse layout
+pagination:
+  max: 5
+  path: 'page'

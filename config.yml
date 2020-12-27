@@ -1,6 +1,7 @@
 ---
 title: Morgan
 baseline: A blog about life
+image: butler.jpg
 description: A blog about life
 baseurl: "/"
 canonicalurl: true

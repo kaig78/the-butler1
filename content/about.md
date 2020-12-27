@@ -6,7 +6,7 @@ menu:
     weight: "999"
 
 ---
-> A blog about life.
+> A blog about life powered by [Cecil](https://cecil.app).
 
 ## How to use?
 

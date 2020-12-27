@@ -3,7 +3,6 @@ title: Morgan
 baseline: A blog about life
 image: "/images/butler.jpg"
 description: A blog about life
-theme: "hyde"
 baseurl: "/"
 canonicalurl: true
 keywords:
@@ -15,6 +14,7 @@ date:
   format: j F Y
   timezone: Europe/Paris
 theme:
+  - "hyde"
 - netlify
 - netlify-cms
 

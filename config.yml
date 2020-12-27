@@ -14,7 +14,7 @@ date:
   format: j F Y
   timezone: Europe/Paris
 theme:
-  - "hyde"
+- "hyde"
 - netlify
 - netlify-cms
 

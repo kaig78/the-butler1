@@ -1,12 +1,11 @@
 ---
 title: Morgan
 baseline: A blog about life
-image: /images/butler.jpg
+image: "/images/butler.jpg"
 description: A blog about life
 baseurl: "/"
 canonicalurl: true
 keywords:
-- Cecil
 - Static Site Generator
 - SSG
 author: Kai Gröteke

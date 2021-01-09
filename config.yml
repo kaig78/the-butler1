@@ -1,12 +1,12 @@
 ---
-title: Morgan
+title: LIFE
 baseline: A blog about life
 image: "/images/butler.jpg"
 description: A blog about life
 baseurl: "/"
 canonicalurl: true
 keywords:
-- Cecil 
+- Cecil
 - Static Site Generator
 - SSG
 author: Kai Gröteke
@@ -18,9 +18,9 @@ theme:
 - netlify-cms
 hyde:
   sidebar:
-    sticky: true # Content to the bottom of the sidebar
-  theme: 'red' # red, orange, yellow, green, cyan, blue, magenta, brown or cecil
-  reverse: false # Reverse layout
+    sticky: true
+  theme: red
+  reverse: false
 pagination:
-  max: 5
-  path: 'page'
+  max: "5"
+  path: page

@@ -19,7 +19,7 @@ theme:
 hyde:
   sidebar:
     sticky: true
-  theme: red
+  theme: blue
   reverse: false
 pagination:
   max: "5"
